@@ -1,5 +1,5 @@
-baseURL = "/"
-
+baseURL = "https://htlin222.github.io/blog.hugo/"
+publishDir = "docs"
 
 defaultContentLanguage = "zh-tw"
 # 网站语言, 仅在这里 CN 大写
@@ -52,4 +52,4 @@ theme = "LoveIt"
     # false 是必要的设置 (https://github.com/dillonzq/LoveIt/issues/158)
     noClasses = false
 
-publishDir = "docs"
+
