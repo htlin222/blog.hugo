@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://htlin222.github.io/"
 publishDir = "docs"
 
 defaultContentLanguage = "zh-tw"
