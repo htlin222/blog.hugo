@@ -16,3 +16,8 @@ draft: false
 ```
 test
 ```
+
+![]("/static/images/avatar.jpg")
+![]("static/images/avatar.jpg")
+![]("/images/avatar.jpg")
+![]("images/avatar.jpg")

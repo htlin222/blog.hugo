@@ -10,3 +10,12 @@
 
 ![](https://i.imgur.com/1F3rSH9.png)
 
+```
+test
+```
+
+![]("/static/images/avatar.jpg")
+![]("static/images/avatar.jpg")
+![]("/images/avatar.jpg")
+![]("images/avatar.jpg")
+
