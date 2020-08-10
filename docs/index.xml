@@ -3,14 +3,22 @@
         <title>林協霆</title>
         <link>/</link>
         <description>林協霆</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-Tw</language><lastBuildDate>Sun, 09 Aug 2020 19:35:53 &#43;0800</lastBuildDate>
+        <generator>Hugo -- gohugo.io</generator><language>zh-Tw</language><managingEditor>ppoiu87@gmail.com (林協霆)</managingEditor>
+            <webMaster>ppoiu87@gmail.com (林協霆)</webMaster><lastBuildDate>Mon, 10 Aug 2020 12:35:53 &#43;0800</lastBuildDate>
             <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
         <item>
-    <title>First post</title>
-    <link>/posts/first_post/</link>
+    <title>Heart Rate and Rhythm Disorders</title>
+    <link>/first_post/</link>
+    <pubDate>Mon, 10 Aug 2020 12:35:53 &#43;0800</pubDate>
+    <author></author>
+    <guid>/first_post/</guid>
+    <description><![CDATA[Heart Rate and Rhythm Disorders tags: Apporach ]]></description>
+</item><item>
+    <title>Pleural Effusion</title>
+    <link>/pleural-effusion/</link>
     <pubDate>Sun, 09 Aug 2020 19:35:53 &#43;0800</pubDate>
     <author></author>
-    <guid>/posts/first_post/</guid>
-    <description><![CDATA[]]></description>
+    <guid>/pleural-effusion/</guid>
+    <description><![CDATA[Pleural Effusion tags: Apporach ]]></description>
 </item></channel>
 </rss>

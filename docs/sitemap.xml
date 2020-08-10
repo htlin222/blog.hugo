@@ -2,8 +2,9 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>/posts/first_post/</loc><lastmod>2020-08-09T19:35:53&#43;08:00</lastmod></url><url>
-            <loc>/posts/</loc><lastmod>2020-08-09T19:35:53&#43;08:00</lastmod></url><url>
-            <loc>/</loc><lastmod>2020-08-09T19:35:53&#43;08:00</lastmod></url><url>
-            <loc>/categories/</loc></url><url>
-            <loc>/tags/</loc></url></urlset>
+            <loc>/first_post/</loc><lastmod>2020-08-10T12:35:53&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>/posts/</loc><lastmod>2020-08-10T12:35:53&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>/</loc><lastmod>2020-08-10T12:35:53&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>/pleural-effusion/</loc><lastmod>2020-08-09T19:35:53&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>/categories/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>/tags/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>
