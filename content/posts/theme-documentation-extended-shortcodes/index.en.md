@@ -9,7 +9,7 @@ authorLink: "https://dillonzq.com"
 description: "LoveIt theme provides multiple shortcodes on top of built-in ones in Hugo."
 resources:
 - name: "featured-image"
-  src: "featured-image.jpg"
+  # src: "featured-image.jpg"
 - name: "featured-image-preview"
   src: "featured-image-preview.jpg"
 

@@ -9,7 +9,7 @@ authorLink: "https://dillonzq.com"
 description: "Guide to emoji usage in Hugo and LoveIt."
 resources:
 - name: "featured-image"
-  src: "featured-image.jpg"
+  # # src: "featured-image.jpg"
 
 tags: ["emoji"]
 categories: ["Markdown"]

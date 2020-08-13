@@ -9,7 +9,7 @@ authorLink: "https://dillonzq.com"
 description: "This article shows the basic Markdown syntax and format."
 resources:
 - name: "featured-image"
-  src: "featured-image.png"
+  # src: "featured-image.png"
 
 tags: ["Markdown", "HTML"]
 categories: ["Markdown"]

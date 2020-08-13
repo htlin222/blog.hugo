@@ -9,7 +9,7 @@ authorLink: "https://dillonzq.com"
 description: "Découvrez en quoi consiste le thème Hugo - LoveIt et les concepts fondamentaux qui le sous-tendent."
 resources:
 - name: "featured-image"
-  src: "featured-image.jpg"
+  # src: "featured-image.jpg"
 
 tags: ["installation", "configuration"]
 categories: ["documentation"]
