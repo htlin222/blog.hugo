@@ -1,4 +1,8 @@
+<<<<<<< Updated upstream
 baseURL = "/"
+=======
+baseURL = "blog.hugo"
+>>>>>>> Stashed changes
 publishDir = "docs"
 
 defaultContentLanguage = "zh-tw"
